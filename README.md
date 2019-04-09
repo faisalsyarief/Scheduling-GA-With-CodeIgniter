@@ -1,1 +1,1 @@
-# Scheduling-GA-With-CodeIgniter
+# Penjadwalan Algoritma Genetika Menggunakan CodeIgniter
